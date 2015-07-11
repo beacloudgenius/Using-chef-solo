@@ -1,1 +1,1 @@
-sudo chef-solo -c solo.rb -j node.json
+sudo chef-solo -c solo.rb -j dna.json
